@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mishat</h1>
 <h3 align="center">I am a MERN Stack Developer.</h3>
 
-<img align='right' alt='coding' width='400' src='<iframe src="https://embed.lottiefiles.com/animation/97639"></iframe>'>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imishat&label=Profile%20views&color=0e75b6&style=flat" alt="imishat" /> </p>
 
