@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mishat</h1>
 <h3 align="center">I am a MERN Stack Developer.</h3>
 
+<img align='right' alt='coding' width='400' src='https://lottiefiles.com/97639-coding'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imishat&label=Profile%20views&color=0e75b6&style=flat" alt="imishat" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
